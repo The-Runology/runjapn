@@ -37,6 +37,12 @@
 
 
 
+## 提问
+
+文章的内容很多都是以及会是我个人整理总结的（当然，如果是引用的内容我会注明出处），有错误是难免的。 如果有的话，可以在Issues中指出， 感谢！
+
+
+
 ## 协议
 ![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "license")
 
